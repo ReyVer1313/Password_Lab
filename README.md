@@ -1,4 +1,4 @@
-# Password Cracking Lab Results
+# Password Cracking Lab
 
 This project documents the outcomes of a password cracking lab, including the use of LAN Manager settings and John the Ripper for password attacks. The lab demonstrates various password cracking techniques and their effectiveness under different configurations.
 
